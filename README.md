@@ -6,9 +6,8 @@ A security-awareness demonstration tool built with **Python, Flask, Tkinter, SQL
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of the application here.
+.
 
 ---
 
